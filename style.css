@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@500&family=Ubuntu:wght@500&display=swap');
+
+*{
+
+}
+
+.coy-logo{
+    width: 20%;
+}
+
+#hero-section {
+    height: 50vh;
+    width: 100%;
+    display: flex;    
+}
+
+
+#hero-heading {
+    margin: 0 auto;
+    width: 50%
+}
+
+
+.why-us{
+    
+}
+
+#why-us{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(216, 211, 211);
+}
+
+.tiny-about{
+    display: flex;
+    margin: 15px 0;
+    flex-direction: column;
+    width: 20%;
+}
+
+.tiny-about p, h6{
+    text-align: center;
+} 
+
+#why-us img{
+    height: 7vh;
+}
+
+hr{
+    margin: auto;
+}
+
+
+
+/* services */
+
+.services{
+    margin: 10px auto;
+}
+
+
+.coy-services{
+    margin: 0 auto;
+}
+
+.srv{
+    width: 20%;
+    margin: 15px 10px;
+}
+
+.srv img{
+    height: 30vh;
+}
+
+.results{
+    background-color: rgba(0, 0, 0, 0.744);
+    color: whitesmoke;
+}
+
+.rslts{
+    font-size: .5em;
+    text-align: center;
+    width: 10%;
+    margin: 15px 3%;
+}
+
+/* -------------latest projects */
+
+.latest{
+    margin: 5vh; 
+    height: ;
+}
+
+#latest-projects-carousel{
+    margin: auto;
+    width: 80%;
+}
+
+#latest-projects-carousel img{
+    width: 5vw;
+    border-radius: 10px;
+}
+
+
+/* free consultation */
+
+.free-consultation{
+    background-color: rgba(0, 0, 0, 0.744);
+    padding: 3vh 0;
+}
+
+.consultation{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.consultation hr{
+    text-align: left;
+}
+
+.cnslt-text{
+    color: whitesmoke;
+    margin: auto;
+}
+
+.cnslt-form{
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    display: inline-block;
+    background-color: white;
+}
+
+/* partner-links */
+
+.partners-links{
+    margin: 15px auto;
+    justify-content: center;
+    align-items: center;
+} 
+
+.partner-logo{
+    width: 15vw;
+}
+
+
+
+/* footer */
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.744);
+    padding: 3vh 0;
+    display: flex;
+    color: whitesmoke;
+}
+
+.footer img{
+    width: 10vw;
+}
+
+.footer hr{
+    width: 10%;
+    text-align: left;
+}
+
+.footer-sections{
+    margin: 15px 20px;;
+}
+
+li{
+    list-style: none;
+    font-size: x-small;
+
+}
